@@ -16,7 +16,7 @@ const Hero2 = () => {
                 BASIC EDUCATION DEPARTMENT
               </h2>
               <p className="leading-relaxed text-base">
-                Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.
+                
               </p>
               <button className="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
                 Button
@@ -30,7 +30,7 @@ const Hero2 = () => {
                 HIGHER EDUCATION DEPARTMENT
               </h2>
               <p className="leading-relaxed text-base">
-                Williamsburg occupy sustainable snackwave gochujang. Pinterest cornhole brunch, slow-carb neutra irony.
+                
               </p>
               <button className="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
                 Button
