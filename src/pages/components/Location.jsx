@@ -30,7 +30,7 @@ const Location = () => {
             >
               <div className="w-full px-4">
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
-                <p className="mt-1">45 Admiral, Las Piñas, 1740 Metro Manila, Philippines</p>
+                <p className="mt-1">045 Admiral, Las Piñas, 1740 Metro Manila, Philippines</p>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">EMAIL</h2>
                 <a className="text-indigo-500 leading-relaxed">info@stfrancis.edu.ph</a>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
