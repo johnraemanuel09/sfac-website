@@ -38,7 +38,7 @@ const Location = () => {
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">CONTACT NUMBER</h2>
                 <p className="leading-relaxed">09339468066</p>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">DEVELOPER</h2>
-                <p className="leading-relaxed">John Rae G. Manuel BSCS-3</p>
+                <p className="leading-relaxed">John Rae G. Manuel & Rodnel Rianzares BSCS-3</p>
               </div>
             </div>
           </div>
